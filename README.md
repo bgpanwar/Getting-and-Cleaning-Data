@@ -8,7 +8,7 @@ The purpose of this project is to take Jawbone Fit data and clean it via applyin
 various techniques.
 
 #Dataprocessing
-raw data(UCI HAR dataset" repository was processed by following various manipulation
+The raw data(UCI HAR dataset" repository was processed by following various manipulation
 from training and testing sets. The features file consists of 561 variables that are not labeled very well. 
 They are captured in the X_test.txt file. The activity labels are found in the y_test.txt file.  The test subjects
 are in the subject_test.txt file. Same format was applied to the training dataset.
