@@ -1,13 +1,13 @@
 ##Codebook for the Tidy dataset
 
-##HCI website data source was used.
+HCI website data source was used.
 
 
-##The Tidy dataset (mytidydata.txt) includes the following :
+The Tidy dataset (mytidydata.txt) includes the following :
 
-##The standard deviation and mean values of the raw data set for all features 
-##Features are normalized and bounded within [-1,1].
-##Acc (accelerometer) values are in units of g's.  Gyro (gyroscope) values are in units of radians per second.
+The standard deviation and mean values of the raw data set for all features 
+Features are normalized and bounded within [-1,1].
+Acc (accelerometer) values are in units of g's.  Gyro (gyroscope) values are in units of radians per second.
 
 There are 30 subjects, and the following 6 activities:
 LAYING 
@@ -21,8 +21,8 @@ The tidy data set reports the mean of feature measurements for each subject and 
 
 The 68 columns are:
 
-##"tBodyAcc-mean()-X",
-##"tBodyAcc-mean()-Y",
+"tBodyAcc-mean()-X",
+"tBodyAcc-mean()-Y",
 "tBodyAcc-mean()-Z",
 "tBodyAcc-std()-X",
 "tBodyAcc-std()-Y",
