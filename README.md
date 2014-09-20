@@ -9,7 +9,8 @@ The purpose of this project is to use the Samsung Galaxy smartphone data collect
 The raw data"UCI HAR dataset" repository was processed by following various manipulation
 from training and testing sets. The features file consists of 561 variables that are not labeled very well. 
 They are captured in the X_test.txt file. The activity labels are found in the Y_test.txt file.  The test subjects
-are in the subject_test.txt file. Same format was applied to the training dataset.
+are in the subject_test.txt file. Same format was applied to the training dataset. Tidy data set consists of the std and Mean variables uses units of g's. For example the extracted data  consisted of "tBodyAcc-mean()-X","tBodyAcc-mean()-Y",
+"tBodyAcc-mean()-Z","tBodyAcc-std()-X","tBodyAcc-std()-Y" etc.
 
 
 
