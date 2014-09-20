@@ -10,12 +10,12 @@ Features are normalized and bounded within [-1,1].
 Acc (accelerometer) values are in units of g's.  Gyro (gyroscope) values are in units of radians per second.
 
 There are 30 subjects, and the following 6 activities:
-LAYING 
-SITTING 
-STANDING 
-WALKING 
-WALKING_DOWNSTAIRS 
-WALKING_UPSTAIRS
+LAYING, 
+SITTING, 
+STANDING, 
+WALKING, 
+WALKING_DOWNSTAIRS, 
+WALKING_UPSTAIRS.
 
 The tidy data set reports the mean of feature measurements for each subject and activity.
 
