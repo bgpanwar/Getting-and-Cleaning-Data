@@ -1,7 +1,6 @@
 Getting-and-Cleaning-Data
 =========================
 
-project
 #Introduction
 
 The purpose of this project is to take Jawbone Fit data and clean it via applying
