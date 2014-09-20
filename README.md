@@ -3,8 +3,7 @@ Getting-and-Cleaning-Data
 
 #Introduction
 
-The purpose of this project is to take Jawbone Fit data and clean it via applying
-various techniques.
+The purpose of this project is to use the Samsung Galaxy smartphone data collected from the accelerometers and clean it via applying various data cleaning techniques. 
 
 #Dataprocessing
 The raw data"UCI HAR dataset" repository was processed by following various manipulation
